@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+  }
+body{
+   min-width: 320px;
+   background-image: url('../img/background.jpg'); 
+   background-position: cover; 
+   background-repeat: no-repeat;
+   background-position-x: 30%;
+   background-attachment: fixed;
+ }
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+  /*menu*/
+:root {
+  --surface-color: #fff;
+  --curve: 40;
+}
+
+  /*début footer*/
+footer{
+    background-color: #000001;
+    padding: 10px 0;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: "prompt1";
+    font-weight: 700;
+}
+footer a {
+    text-decoration: none;
+    color: rgb(243, 237, 237);
+    font-size: 14px;
+}
+footer p {
+    margin-top: 25px;
+}
+footer a{
+    margin-right: 45px;
+}
+
+

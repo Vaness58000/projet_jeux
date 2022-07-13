@@ -1,0 +1,69 @@
+
+@font-face{
+    font-family: "volkhov italic";
+    src:url("../fonts/volkhov-italic.woff") format("woff");
+}
+@font-face{
+    font-family: "satisfy";  
+    src:url("../fonts/Satisfy-Regular.ttf") format("ttf");
+}
+@font-face{
+    font-family: "brittany";
+    src:url("../fonts/BrittanySignature.ttf") format("ttf");
+}
+@font-face{
+    font-family: "bother";
+    src:url("../fonts/BotheringScript_PERSONAL_USE_ONLY.otf") format("otf");
+}
+@font-face {
+    font-family: "gugi";
+    src: url("../fonts/Gugi-Regular.ttf") format("ttf");
+}
+@font-face {
+    font-family: "permanent";
+    src: url("../fonts/PermanentMarker-Regular.ttf");
+}
+@font-face {
+    font-family: "amatic";
+    src: url("../fonts/AmaticSC-Bold.ttf");
+
+}
+@font-face {
+    font-family: "prompt";
+    src: url("../fonts/Prompt-Regular.ttf");
+}
+@font-face {
+    font-family: "prompt1";
+    src: url("../fonts/Prompt-Thin.ttf");
+}
+@font-face {
+    font-family: "danisha";
+    src: url("../fonts/Danisha.otf");
+}
+@font-face {
+    font-family: "high";
+    src: url("../fonts/High\ Spirited.ttf");
+}
+
+@font-face {
+    font-family: "beauty";
+    src: url("../fonts/BeautyDemo.ttf");
+}
+@font-face {
+    font-family: "lora italic";
+    src: url("../fonts/Lora-Italic-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: "lora normal";
+    src: url("../fonts/Lora-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: "geisha";
+    src: url("../fonts/Rush\ of\ the\ Geisha.ttf");
+}
+@font-face {
+    font-family: "indie";
+    src: url("../fonts/IndieFlower-Regular.ttf");
+}
